@@ -1,6 +1,6 @@
 # Accelerometer sensor dataset for Human Posture Recognition
 
-<img src="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" alt="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png"></img>
+<img src="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" alt="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" height="75%"></img>
 
 
 This repository is a pointer to the dataset that we created during [our work](https://ieeexplore.ieee.org/document/8692143) on Human Posture Recognition at [College of Engineering, Pune](http://www.coep.org.in/) in the Spring of 2018. The dataset consists of accelerometer sensor values for 6 postures namely - standing, sitting, sleeping, running, forward bending and backward bending - from the Invensense' MEMS IMU sensor [MPU-6050](https://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/) mounted one each on the left chest and the right thigh.
