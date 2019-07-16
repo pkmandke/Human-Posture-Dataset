@@ -3,7 +3,7 @@
 <img src="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" alt="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" height="75%"></img>
 
 
-This repository is a pointer to the dataset that we created during [our work](https://ieeexplore.ieee.org/document/8692143) on Human Posture Recognition at [College of Engineering, Pune](http://www.coep.org.in/) in the Spring of 2018. The dataset consists of accelerometer sensor values for 6 postures namely - standing, sitting, sleeping, running, forward bending and backward bending - from the Invensense' MEMS IMU sensor [MPU-6050](https://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/) mounted one each on the left chest and the right thigh.
+This repository links to the dataset that we created during [our work](https://ieeexplore.ieee.org/document/8692143) on Human Posture Recognition at [College of Engineering, Pune](http://www.coep.org.in/) in the Spring of 2018. The dataset consists of accelerometer sensor values for 6 postures namely - standing, sitting, sleeping, running, forward bending and backward bending - from the Invensense' MEMS IMU sensor [MPU-6050](https://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/) mounted one each on the left chest and the right thigh.
 
 The dataset is in the form of a single csv file of size 3.2MB. [Download](https://drive.google.com/open?id=1GtNRi9CgHOlGpsa-Dlp6uzAqXUVdEh54).
 
@@ -25,7 +25,7 @@ The dataset is in the form of a single csv file of size 3.2MB. [Download](https:
 
 ## Data
 
-The csv file has a total of 44800 samples each having 6 columns. The Ax1, Ay1 and Az1 are the accelerometer readings from the **chest sensor** while Ax2, Ay2 and Az2 are the readings from the **thigh sensor**. The readings are not calibrated or filtered and contain any noise as is. The last column of labels identifies the corresponding posture. The posture legend is as follows:
+The csv file has a total of 44800 samples each having 6 columns. The **Ax1, Ay1 and Az1** are the accelerometer readings from the **chest sensor** while **Ax2, Ay2 and Az2** are the readings from the **thigh sensor**. The readings are not calibrated or filtered and contain any noise as is. The last column of labels identifies the corresponding posture. The posture legend is as follows:
 
 | Label | Posture |
 |---|---|
@@ -39,9 +39,9 @@ The csv file has a total of 44800 samples each having 6 columns. The Ax1, Ay1 an
 ## Nuances
 
 
-The data has been collected from a total of 3 subjects who were students at [College of Engineering, Pune](http://www.coep.org.in/). Note that the readings for a given posture from all 3 subjects have been combined and are indistinguishable. Please contact us if you need the readings of each subject and posture separately.
+The data has been collected from a total of 3 subjects who were students at [College of Engineering, Pune](http://www.coep.org.in/). Note that the readings for a given posture from all 3 subjects have been combined and are indistinguishable. Please [contact us](https://github.com/pkmandke/Human-Posture-Dataset#authors) if you need the readings of each subject and posture separately.
 
-We encourage you to shuffle the data for a single posture for robustness during training. Moreover, the number of readings for each posture and subject are not the same. This is because of 2 reasons. Firstly, we removed outliers from each data collection session. Secondly, it was difficult to maintain the same postures for long periods of time and we ensured the comfort of the subjects.
+We encourage you to shuffle the data for a single posture for robustness during training a classifier. Moreover, the number of readings for each posture and subject are not the same. This is because of 2 reasons. Firstly, we removed outliers from each data collection session. Secondly, it was difficult to maintain the same postures for long periods of time and we ensured the comfort of the subjects.
 
 <img src="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sensor_node.png" alt="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sensor_node.png"></img>
 
@@ -49,7 +49,7 @@ In order to collect the data, we built a small PCB to interface the MPU-6050 wit
 
 During the static postures, the subjects were directed to include slight natural movements which make the readings more robust for training classifiers. For the bending postures, the subjects were in sitting position and bent forward and backward at 30-40 degrees to the vertical. For running, the subjects jogged in the same place for the most part with slight translational motion or displacement occasionally. Thus, the readings for running are spurious at best.
 
-For more details, refer to our paper [here](https://ieeexplore.ieee.org/document/8692143). Feel free to contact us for further queries.
+For more details, refer to our paper [here](https://ieeexplore.ieee.org/document/8692143). Feel free to [contact us](https://github.com/pkmandke/Human-Posture-Dataset#authors) for further queries.
 
 ## Data visualization
 
