@@ -1,5 +1,7 @@
 # Accelerometer sensor dataset for Human Posture Recognition
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 <img src="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" alt="https://github.com/pkmandke/Human-Posture-Dataset/blob/master/img/sample_pose.png" height="75%"></img>
 
 
