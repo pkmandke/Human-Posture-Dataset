@@ -80,3 +80,7 @@ H. Kale, P. Mandke, H. Mahajan and V. Deshpande, "Human Posture Recognition usin
 TL;DR - Feel free to use this in your work so long as you cite us!
 
 This dataset is licensed under the GPL license. See [the license](https://github.com/pkmandke/Human-Posture-Dataset/blob/master/LICENSE.md) for details.
+
+# Acknowledgements
+
+We express our sincere gratitude towards our guide [Mrs. Deeplaxmi Niture](http://www.coep.org.in/mycoep/dvnextccoepacin), Assistant Professor at the Department of Electronics and Telecommunication, College of Engineering, Pune ([COEP](www.coep.org.in)) for her help in publishing our work. We also thank the Department of Electronics and Telecommunocation at COEP as well as the [COEP Amateur Radio Club](http://www.coep.org.in/clubs/ham_club) for providing the resources and lab space for our work.
