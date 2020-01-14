@@ -65,6 +65,19 @@ If you use our dataset in your work, please cite [our paper](https://ieeexplore.
 
 H. Kale, P. Mandke, H. Mahajan and V. Deshpande, "Human Posture Recognition using Artificial Neural Networks," 2018 IEEE 8th International Advance Computing Conference (IACC), Greater Noida, India, 2018, pp. 272-278.
 
+> @INPROCEEDINGS{8692143,
+  author={H. {Kale} and P. {Mandke} and H. {Mahajan} and V. {Deshpande}},
+  booktitle={2018 IEEE 8th International Advance Computing Conference (IACC)},
+  title={Human Posture Recognition using Artificial Neural Networks},
+  year={2018},
+  volume={},
+  number={},
+  pages={272-278},
+  keywords={health care;image recognition;neural nets;wireless LAN;human posture recognition;human postures;healthcare analysis;optimal neural network architecture;artificial neural networks;invasive approach;intrusive approach;Raspberry-Pi device;Wi-Fi;pattern-recognition;neural-networks;posture-recognition;wearable-sensors;accelerometers;embedded systems;real time movement classification;sensor positioning},
+  doi={10.1109/IADCC.2018.8692143},
+  ISSN={2164-8263},
+  month={Dec},}
+
 # Authors
 
 * [Prathamesh Mandke](https://www.linkedin.com/in/prathamesh-mandke-866866168/) - pkmandke AT vt DOT edu
