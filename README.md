@@ -86,7 +86,7 @@ H. Kale, P. Mandke, H. Mahajan and V. Deshpande, "Human Posture Recognition usin
 
 * [Hrishikesh Kale](https://www.linkedin.com/in/hrishikesh-kale-02b338140/) - kalehp15 DOT extc AT coep DOT ac DOT in
 * [Hrishikesh Mahajan](https://www.linkedin.com/in/hrishikeshmahajan3/) - mahajanhs15 DOT extc AT coep DOT ac DOT in
-* Vedant Deshpande - deshpandevv16 DOT extc AT coep DOT ac DOT in
+* [Vedant Deshpande](https://www.linkedin.com/in/vedantdeshpande5/) - deshpandevv16 DOT extc AT coep DOT ac DOT in
 
 # License
 
